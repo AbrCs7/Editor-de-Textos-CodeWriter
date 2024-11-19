@@ -32,7 +32,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AbrCs7/Editor-de-Textos-CodeWriter/refs/heads/main/C%C3%B3digo%20Fonte/screenshots/1.png" alt="Screenshot 1" width="300" style="margin-right: 100px;"/>
-  <img src="https://raw.githubusercontent.com/AbrCs7/Editor-de-Textos-CodeWriter/refs/heads/main/C%C3%B3digo%20Fonte/screenshots/2.png" alt="Screenshot 2" width="300"/>
+  <img src="https://raw.githubusercontent.com/AbrCs7/Editor-de-Textos-CodeWriter/refs/heads/main/C%C3%B3digo%20Fonte/screenshots/2.png" alt="Screenshot 2" width="340"/>
 </p>
 
 ## Instalação
