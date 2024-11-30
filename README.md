@@ -45,7 +45,7 @@
 
 ### Usando o executável
 
-1. Baixe o diretório em [Executável](https://github.com/SeuUsuario/Plume-Text-Editor/tree/main/Executavel%20Windows).
+1. Baixe o diretório em [Executável](#).
 2. Após descompactar, execute o arquivo `.exe` dentro do diretório.
 
 ---
