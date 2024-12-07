@@ -79,7 +79,7 @@ Contribuições são bem-vindas! Para contribuir:
 5. Abra um **Pull Request**.
 
 ### Sugestões e Bugs
-- Para sugestões ou bugs, abra uma **issue** [aqui](https://github.com/AbrCs7/Plume-Text-Editor/issues).
+- Para sugestões ou bugs, abra uma **issue** [aqui](https://github.com/AbrCs7/Editor-de-Textos-CodeWriter/issues).
 
 ---
 
